@@ -1,0 +1,82 @@
+* {
+  margin: 0px;
+}
+.upload_img {
+  border: dashed;
+  border-width: 2px;
+  border-color: #b2bad0;
+  border-radius: 13px;
+  background: #fafefb;
+}
+.col-5 h4 {
+  color: #2b3674;
+}
+body {
+  background-color: #e9edf2;
+}
+.basic_dtl {
+  border-radius: 10px;
+  background-color: #fff;
+}
+h6 {
+  padding: none;
+}
+.form-label::after {
+  content: "*";
+  color: red;
+}
+.cm {
+  width: 92px;
+  height: 40px;
+  border-radius: 16px;
+  background: #fff;
+  color: #2b3674;
+  border: 1px solid #b2bad0;
+}
+
+.form-label {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 14px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #2b3674;
+}
+.alert p {
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 19.32px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+.alert h4 {
+  font-family: DM Sans;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 16px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+.basic_dtl h4 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #2b3674;
+}
+.form-check-label {
+  font-weight: 400;
+  font-size: 14px;
+}
+.form-select:focus {
+  box-shadow: none;
+  border-color: #b2bad0;
+}
+.form-control:focus {
+  box-shadow: none;
+  border-color: #b2bad0;
+}
+.form-check-inline {
+  white-space: nowrap;
+}
