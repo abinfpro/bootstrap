@@ -23,7 +23,7 @@ h6 {
 }
 .form-label::after {
   content: "*";
-  color: rgb(39, 201, 85);
+  color:#FF1818;
 }
 .cm {
   width: 92px;
@@ -79,4 +79,13 @@ h6 {
 }
 .form-check-inline {
   white-space: nowrap;
+}
+input[type=range] {
+  -webkit-appearance: none;
+}
+input[type=range]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 15px;
+  width: 15px;
+  background: #4318FF;
 }
