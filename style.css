@@ -65,6 +65,9 @@ h6 {
   text-align: left;
   color: #2b3674;
 }
+.form-control-color{
+width: 100%;
+}
 .form-check-label {
   font-weight: 400;
   font-size: 14px;
