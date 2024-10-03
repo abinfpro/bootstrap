@@ -23,7 +23,7 @@ h6 {
 }
 .form-label::after {
   content: "*";
-  color:#FF1818;
+  color: #ff1818;
 }
 .cm {
   width: 92px;
@@ -48,11 +48,9 @@ h6 {
   line-height: 19.32px;
   letter-spacing: -0.02em;
   text-align: left;
-  
 }
-.alert{
-  background: #FDF4D1 !important;
-
+.alert {
+  background: #fdf4d1 !important;
 }
 .alert h4 {
   font-family: DM Sans;
@@ -70,8 +68,8 @@ h6 {
   text-align: left;
   color: #2b3674;
 }
-.form-control-color{
-width: 100%;
+.form-control-color {
+  width: 100%;
 }
 .form-check-label {
   font-weight: 400;
@@ -88,12 +86,12 @@ width: 100%;
 .form-check-inline {
   white-space: nowrap;
 }
-input[type=range] {
+input[type="range"] {
   -webkit-appearance: none;
 }
-input[type=range]::-webkit-slider-thumb {
+input[type="range"]::-webkit-slider-thumb {
   -webkit-appearance: none;
   height: 15px;
   width: 15px;
-  background: #4318FF;
+  background: #4318ff;
 }
