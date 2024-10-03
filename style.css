@@ -48,6 +48,11 @@ h6 {
   line-height: 19.32px;
   letter-spacing: -0.02em;
   text-align: left;
+  
+}
+.alert{
+  background: #FDF4D1 !important;
+
 }
 .alert h4 {
   font-family: DM Sans;
